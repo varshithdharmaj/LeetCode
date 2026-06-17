@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/varshithdharmaj/LeetCode/tree/master/0078-subsets) |
 | [0322-coin-change](https://github.com/varshithdharmaj/LeetCode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/varshithdharmaj/LeetCode/tree/master/0455-assign-cookies) |
 ## Two Pointers
@@ -37,4 +38,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/varshithdharmaj/LeetCode/tree/master/0322-coin-change) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/varshithdharmaj/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/varshithdharmaj/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
