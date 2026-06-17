@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/varshithdharmaj/LeetCode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/varshithdharmaj/LeetCode/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -26,4 +27,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/varshithdharmaj/LeetCode/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/varshithdharmaj/LeetCode/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/varshithdharmaj/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
