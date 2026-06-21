@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/varshithdharmaj/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0078-subsets](https://github.com/varshithdharmaj/LeetCode/tree/master/0078-subsets) |
 | [0322-coin-change](https://github.com/varshithdharmaj/LeetCode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/varshithdharmaj/LeetCode/tree/master/0455-assign-cookies) |
@@ -50,4 +51,12 @@
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/varshithdharmaj/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/varshithdharmaj/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/varshithdharmaj/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
